@@ -274,6 +274,7 @@
     font-family: 'Poppins', sans-serif;
     flex-wrap: wrap;
     padding:100px 50px;
+    gap:60px;
 }
 
 .para3 {
